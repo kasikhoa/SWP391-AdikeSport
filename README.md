@@ -35,9 +35,3 @@ Install
 * Open terminal in root folder project and type ```composer update```
 * Run project with command ```php artisan serve```
 
-Contact me:
-
-*Phone number: 0988486443
-*Email: boypham12042000@gmail.com
-
-
